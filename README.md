@@ -1,6 +1,6 @@
 ![](https://i.ibb.co/wC9LxYw/Neutron-nobg.png)
 
-Neutron is ment to be an intuative way of creating GUI applications using HTML, CSS and Python. It is built on top of PyQt6 and uses the QtWebEngine.
+Neutron is meant to be an intuitive way of creating GUI applications using HTML, CSS and Python. It is built on top of PyQt6 and uses the QtWebEngine.
 
 You can get started contributing via [CONTRIBUTING.md](https://github.com/IanTerzo/Neutron/blob/main/CONTRIBUTING.md).
 
